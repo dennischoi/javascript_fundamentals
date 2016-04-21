@@ -8,7 +8,7 @@
 // takes 4 arguments: number of children, partner's name, geographic location, job title.
 // outputs your fortune to the screen like so: "You will be a X in Y, and married to Z with N kids."
 // Call that function 3 times with 3 different values for the arguments.
-
+z
 // EXERCISE: The Age Calculator
 
 // Forgot how old you are? Calculate it!
@@ -56,4 +56,3 @@
 
 // Now store a fahrenheit temperature into a variable.
 // Convert it to celsius and output "NN°F is NN°C."
-
