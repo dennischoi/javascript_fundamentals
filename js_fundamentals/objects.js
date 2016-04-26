@@ -25,12 +25,8 @@ console.log(favRecipe.servings)
 
 favRecipe.ingredients.forEach(function (item, index, array){
   console.log(item, index)
-})
+}
 
-
-favRecipe.ingredients.forEach(function (item, index, array){
-  console.log(item, index)
-})
 Jellybean 0
 Dough 1
 Apple 2

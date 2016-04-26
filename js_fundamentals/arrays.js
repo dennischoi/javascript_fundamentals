@@ -8,6 +8,21 @@
 
 
 var veggies = ['Carrot', 'Cucumber', 'Tomato', 'Zucchini']
+  for (i = 0; i < 4; i++){
+    if(i === 0){
+      console.log(veggies[i] + 's are the best!');
+    }else if(i === 1){
+      console.log(veggies[i] + 's are 2nd.');
+    }else if(i === 2){
+      console.log(veggies[i] + 's are 3rd.')
+    }else{
+      console.log(veggies[i] +'s are last.')
+    }
+  }
+
+
+
+
 console.log('My #1 Veggie is ' + veggies[0] + '.')
 My #1 Veggie is Carrot.
 console.log('My #1 Veggie is ' + veggies[1] + '.')
